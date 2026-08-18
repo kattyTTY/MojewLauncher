@@ -10,6 +10,7 @@
         android:id="@+id/account_spinner"
         android:layout_width="match_parent"
         android:layout_height="@dimen/_52sdp"
+        android:background="@color/background_status_bar"
 
         android:dropDownWidth="@dimen/_250sdp"
         android:dropDownVerticalOffset="@dimen/_52sdp"
@@ -27,6 +28,7 @@
         android:src="@drawable/ic_px_sliders"
         android:scaleType="fitCenter"
         android:paddingVertical="@dimen/_8sdp"
+        app:tint="@color/primary_text"
 
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
