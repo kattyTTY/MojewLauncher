@@ -7,8 +7,8 @@
     <color name="background_app">#FFFFFF</color>
     <color name="divider">#0038B8</color>
     <color name="background_overlay">#0038B8</color>
-    <color name="background_status_bar">#0038B8</color>
-    <color name="background_bottom_bar">#0038B8</color>
+    <color name="background_status_bar">#AA0038B8</color>
+    <color name="background_bottom_bar">#AA0038B8</color>
     <color name="icon_outline_color">#0038B8</color>
 
     <color name="primary_text">#0038B8</color>
