@@ -4,7 +4,7 @@
     <color name="control_button_pressed_color">#4D000000</color>
 
     <color name="minebutton_color">#0038B8</color>
-    <color name="background_app">#FFFFFF</color>
+    <color name="background_app">#181818</color>
     <color name="divider">#0038B8</color>
     <color name="background_overlay">#0038B8</color>
     <color name="background_status_bar">#AA0038B8</color>
