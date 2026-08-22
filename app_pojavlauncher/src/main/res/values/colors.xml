@@ -7,8 +7,8 @@
     <color name="background_app">@android:color/transparent</color>
     <color name="divider">#0038B8</color>
     <color name="background_overlay">#0038B8</color>
-    <color name="background_status_bar">@android:color/transparent</color>
-    <color name="background_bottom_bar">@android:color/transparent</color>
+    <color name="background_status_bar">#990038B8</color>
+    <color name="background_bottom_bar">#990038B8</color>
     <color name="icon_outline_color">#0038B8</color>
 
     <color name="primary_text">#0038B8</color>
